@@ -2,8 +2,14 @@
 
 ## Task
 
-Your task is to write a function, that decodes Morse code and returns a string.
-Write your solution in `src/index.js`
+The task is to write a function, that decodes Morse code and returns a string.
+
+---
+
+## Stack
+* JavaScript (ES6)
+* Webpack
+* Git
 
 ---
 
@@ -27,12 +33,13 @@ Write your solution in `src/index.js`
 - Run `npm test` in command line
 - You will see the number of passed and failed tests
 
-## Submit to [rs app](https://app.rs.school)
-1. Open [rs app](https://app.rs.school) and login
-2. Open `RS APP` and click `Auto Test`
-3. Select your task (morse-decoder)
-4. Press the submit button and enjoy
 
 ### Notes
 1. We recommend you to use nodejs of version 14 or lower. If you using any of features that does not supported by node v10, score won't be submitted.
 2. Please be sure that each of your test in limit of 30sec.
+
+---
+
+### :white_check_mark: [Solution](https://github.com/Tatty13/morse-decoder/blob/master/src/index.js)
+
+---
